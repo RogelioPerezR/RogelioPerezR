@@ -18,6 +18,10 @@
  <img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg">
  <img width="15%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg">
  <img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+ <img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
+ <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+ <img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
+ <img width="15%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg">
 </p>
 
 ## Certifications and Badges
